@@ -5,7 +5,7 @@ addEventListener('fetch', event => {
 // Configuration options
 const config = {
   // Support multiple domains, you should modifiy this if you wish to deploy it to your own Cloudflare Worker.
-  proxyDomains: ['webproxy.stratosphericus.workers.dev', 'proxy.liyao.space'],
+  proxyDomains: ['ww.9577701.workers.dev', 'ww.jinlintv.cc'],
   homepage: true, // Whether to enable the homepage
   allowedDomains: [], // Domain whitelist, set to [] to allow all
 
